@@ -1,0 +1,7 @@
+GET /user
+GET /user/:id
+PUT /user/:id
+POST /user
+DELETE /user/:id
+
+Endpoint /user

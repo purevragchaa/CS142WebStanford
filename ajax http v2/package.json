@@ -1,0 +1,10 @@
+{
+    "name": "project4",
+    "version": "1.0.0",
+    "description": "CS142 Project #4 - Learn ReactJS",
+    "main": "webServer.js",
+    "dependencies": {
+        "express": "^4.16.4",
+        "nodemon": "^2.0.20"
+    }
+}

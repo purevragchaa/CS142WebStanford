@@ -1,0 +1,13 @@
+{
+    "name": "project4",
+    "version": "1.0.0",
+    "description": "CS142 Project #4 - Learn ReactJS",
+    "main": "webServer.js",
+    "author": "Mendel Rosenblum <mendel@cs.stanford.edu> ",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.16.4",
+        "nodemon": "^2.0.20"
+    }
+}
